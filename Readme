@@ -1,0 +1,37 @@
+# LeetCode Solutions
+
+My solutions to LeetCode problems, organized by topic and difficulty, tracked as part of DSA prep for ML engineering interviews. Following the NeetCode 150 list.
+
+## 📁 Structure
+├── arrays-hashing/
+├── two-pointers/
+├── sliding-window/
+├── stack/
+├── binary-search/
+├── linked-list/
+├── trees/
+├── tries/
+├── heap-priority-queue/
+├── backtracking/
+├── graphs/
+├── advanced-graphs/
+├── 1d-dp/
+├── 2d-dp/
+├── greedy/
+├── intervals/
+├── math-geometry/
+└── bit-manipulation/
+
+Each solution includes:
+- Problem link
+- Time & space complexity
+- Short comment on approach
+
+
+## 🛠️ Tech
+
+- Language: Java/Python
+
+## 🎯 Goal
+
+Working through NeetCode 150 as DSA prep for ML engineering interviews.
