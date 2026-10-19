@@ -12,7 +12,7 @@
 
 <!-- 🔥 LIVE LEETCODE STATS CARD 🔥 -->
 <!-- Replace 'itsvnsh' below with your exact LeetCode username if different -->
-<a href="https://leetcode.com/itsvnsh">
+<a href="https://leetcode.com/u/oz_code/">
   <img src="https://leetcode-stats-card.vercel.app/?username=itsvnsh&theme=dark&font=baloo" alt="LeetCode Stats" width="85%" />
 </a>
 
