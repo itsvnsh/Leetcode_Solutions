@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/search-insert-position/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
 ### 💡 Tags
 Array, Binary Search
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 8.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
