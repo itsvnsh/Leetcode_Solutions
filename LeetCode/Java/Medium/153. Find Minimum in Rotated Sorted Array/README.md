@@ -1,6 +1,6 @@
 # 📝 153. Find Minimum in Rotated Sorted Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)
+🔗 [Problem Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/?__cf_chl_tk=1P9q7fqOiCrsuTujgXsmFTgARl86Bh0KOC5DEp4UAiY-1791705014-1.0.1.1-ZYGmXks9_d3x36gUpj3vhplDQGc4_SK4bEUp_ddN2i4)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
