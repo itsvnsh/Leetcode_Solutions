@@ -8,13 +8,12 @@ class Solution {
             int mid=left+(right-left)/2;
             if(nums[mid]>nums[right]){
                 left=mid+1;
-                target=Math.min(target,nums[mid]);
+
             }else{
                 right=mid;
-                target=Math.min(target,nums[mid]);
+
             }
-            target=Math.min(target,nums[mid]);
         }
-        return target;
+        return nums[left];
     }
 }
