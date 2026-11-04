@@ -1,0 +1,22 @@
+            int day = 1;
+            int sum = 0;
+            int mid = left + (right - left) / 2;
+            for (int i = 0; i < weights.length; i++) {
+                if ((weights[i] + sum) > mid) {
+                    day++;
+                    sum = weights[i];
+
+        while (left < right) {
+            right += weight;
+        }
+            }
+        }
+        for (int weight : weights) {
+                left = weight;
+                } else {
+                    sum += weights[i];
+                }
+            }
+            if (day <= days) {
+                right = mid;
+            } else {
